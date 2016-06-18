@@ -1,6 +1,6 @@
 # Stupendously-Hot-Charmander
 
-This theme is based on Stupendously Hot Charmander concept developed by Roman Nguyen, available in http://bit.do/SHCC_Mockup.
+This theme is based on **Stupendously Hot Charmander concept** developed by _Roman Nguyen_, available in http://bit.do/SHCC_Mockup.
 
 This project is in early stage, therefore was used themes and icon-packs existing.
 
@@ -21,48 +21,39 @@ The gtk-theme based on Flatabulous and Numix and the basic icon-pack is based on
 
 ### Instalation:
 
-To set the theme it's necessary unity-tweak-tool.
+1. To set the theme it's necessary unity-tweak-tool.
 
 ```bash
 sudo apt-get install unity-tweak-tool
 ```
 
-- Clone the repository or download files.
+2. Clone the repository or download files.
 
-- Copy theme folder SH Charmander to /home/your_user/.themes or /usr/share/themes
+3. Copy theme folder SH Charmander to /home/your_user/.themes or /usr/share/themes
 
-- Copy icon-pack folder Charmander-Circle to /home/your_user/.icons or /usr/share/icons
+4. Copy icon-pack folder Charmander-Circle to /home/your_user/.icons or /usr/share/icons
 
+5. Copy wallpapers to /home/your_user/Images and set wallpaper (Active Global Menu)
 
-- Copy wallpapers to /home/your_user/Images and set wallpaper (Active Global Menu)
-- Copy wallpapers to /home/your_user/Images and set wallpaper
+6. Copy wallpapers to /home/your_user/Images and set wallpaper
 
+7. Open unity-tweak-tool
 
-- Open unity-tweak-tool
+ * Go to Launcher, on the guide Appearance:
+ * set Custom Color -> #2d2d2d
+ * set Transparency -> 0%
 
-- Go to Launcher, on the guide Appearance:
-
-
-* set Custom Color -> #2d2d2d
-* set Transparency -> 0%
-
--- set Custom Color -> #2d2d2d
--- set Transparency -> 0%
-
-
-- Set theme:
+8. Set theme:
 
 ```bash
 gsettings set org.gnome.desktop.interface gtk-theme "SH Charmander"
 gsettings set org.gnome.desktop.wm.preferences theme "SH Charmander" 
 ```
 
-- Set icon-pack:
+9. Set icon-pack:
 
 ```bash
 gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
 ```
 
-gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
-
-## Use your knowledge to help us!
+#### Use your knowledge to help us!
