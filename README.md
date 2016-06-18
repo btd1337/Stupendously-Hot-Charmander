@@ -55,6 +55,12 @@ sudo cp /wallpapers/*.jpg /Imagens
 gsettings set org.gnome.desktop.interface gtk-theme "SH-Charmander"
 gsettings set org.gnome.desktop.wm.preferences theme "SH-Charmander" 
 ```
+* Install Numix Icons, if necessary (It's the base of icon-pack)
+```bash
+sudo apt-add-repository ppa:numix/ppa
+sudo apt-get update
+sudo apt-get install numix-icon-theme
+```
 * Set icon-pack:
 ```bash
 gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
