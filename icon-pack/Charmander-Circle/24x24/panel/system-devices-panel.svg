@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" enable-background="new" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer9" transform="translate(-257 351)">
+  <g id="g3878" opacity=".2" transform="translate(1,2)">
+   <rect id="rect3880" color="#bebebe" rx=".5" height="6" width="2" y="-347" x="267"/>
+   <path id="path3882" color="#000000" d="m9 5.3438c-2.3312 0.8232-4 3.0432-4 5.6562 0 3.3137 2.6863 6 6 6s6-2.6863 6-6c0-2.613-1.6688-4.833-4-5.6562v2.2188c1.1938 0.69209 2 1.9583 2 3.4375 0 2.2091-1.7909 4-4 4s-4-1.791-4-4c0-1.4792 0.8062-2.7454 2-3.4375v-2.2187z" transform="translate(257 -351)"/>
+  </g>
+  <g id="g3874" fill="#fff" transform="translate(1,1)">
+   <rect id="rect5820" color="#bebebe" rx=".5" height="6" width="2" y="-347" x="267"/>
+   <path id="path3864" color="#000000" d="m9 5.3438c-2.3312 0.8232-4 3.0432-4 5.6562 0 3.3137 2.6863 6 6 6s6-2.6863 6-6c0-2.613-1.6688-4.833-4-5.6562v2.2188c1.1938 0.69209 2 1.9583 2 3.4375 0 2.2091-1.7909 4-4 4s-4-1.791-4-4c0-1.4792 0.8062-2.7454 2-3.4375v-2.2187z" transform="translate(257 -351)"/>
+  </g>
+ </g>
+</svg>
