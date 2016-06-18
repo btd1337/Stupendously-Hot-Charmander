@@ -21,37 +21,41 @@ The gtk-theme based on Flatabulous and Numix and the basic icon-pack is based on
 
 ### Instalation:
 
-1. To set the theme it's necessary unity-tweak-tool.
 
+
+* Install Unity-Tweak-Tool:
 ```bash
 sudo apt-get install unity-tweak-tool
 ```
-
-2. Clone the repository or download files.
-
-3. Copy theme folder SH Charmander to /home/your_user/.themes or /usr/share/themes
-
-4. Copy icon-pack folder Charmander-Circle to /home/your_user/.icons or /usr/share/icons
-
-5. Copy wallpapers to /home/your_user/Images and set wallpaper (Active Global Menu)
-
-6. Copy wallpapers to /home/your_user/Images and set wallpaper
-
-7. Open unity-tweak-tool
-
+* Clone the repository (or download files):
+```bash
+git clone https://github.com/btd1337/Stupendously-Hot-Charmander
+cd Stupendously-Hot-Charmander
+```
+* Copy theme folder SH Charmander to /home/your_user/.themes or /usr/share/themes
+```bash
+sudo cp /themes/SH-Charmander /usr/share/themes
+```
+* Copy icon-pack folder Charmander-Circle to /home/your_user/.icons or /usr/share/icons
+```bash
+sudo cp /icon-pack/Charmander-Circle /usr/share/icons
+```
+* Copy wallpapers to /home/your_user/Images and set wallpaper
+```bash
+sudo cp /wallpapers/*.jpg /Imagens
+```
+* Active Unity Global Menu
+* Change Unity Bar:
+ * Open unity-tweak-tool
  * Go to Launcher, on the guide Appearance:
  * set Custom Color -> #2d2d2d
  * set Transparency -> 0%
-
-8. Set theme:
-
+* Set theme:
 ```bash
-gsettings set org.gnome.desktop.interface gtk-theme "SH Charmander"
-gsettings set org.gnome.desktop.wm.preferences theme "SH Charmander" 
+gsettings set org.gnome.desktop.interface gtk-theme "SH-Charmander"
+gsettings set org.gnome.desktop.wm.preferences theme "SH-Charmander" 
 ```
-
-9. Set icon-pack:
-
+* Set icon-pack:
 ```bash
 gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
 ```
