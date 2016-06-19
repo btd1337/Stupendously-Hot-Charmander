@@ -5,12 +5,13 @@ echo "Installing the necessary tool: Unity Tweak Tool..."
 sudo apt-get install unity-tweak-tool -y
 
 
-#Installing theme based
-echo "Installing the base features..."
+#Remove existings repositories
 sudo apt-add-repository -r ppa:numix/ppa -y  #remove if it exists
 sudo add-apt-repository -r ppa:snwh/pulp -y #remove if it exists
 sudo apt-get update
 
+#Install base features
+echo "Installing the base features..."
 sudo apt-add-repository ppa:numix/ppa -y  #gtk base theme
 sudo add-apt-repository ppa:snwh/pulp -y  #cursor theme
 sudo apt-get update
