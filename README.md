@@ -22,48 +22,30 @@ The gtk-theme based on Flatabulous and Numix and the basic icon-pack is based on
 ### Instalation:
 
 
-
-* Install Unity-Tweak-Tool:
-```bash
-sudo apt-get install unity-tweak-tool
-```
 * Clone the repository (or download files):
 ```bash
 git clone https://github.com/btd1337/Stupendously-Hot-Charmander
+```
+* Enter the project folder (Via Terminal!):
+```bash
 cd Stupendously-Hot-Charmander
 ```
-* Copy theme folder SH Charmander to /home/your_user/.themes or /usr/share/themes
+* Change installer.sh permissions:
 ```bash
-sudo cp /themes/SH-Charmander /usr/share/themes
+sudo chmod +x installer.sh
 ```
-* Copy icon-pack folder Charmander-Circle to /home/your_user/.icons or /usr/share/icons
+* Run Installer:
 ```bash
-sudo cp /icon-pack/Charmander-Circle /usr/share/icons
+./installer
 ```
-* Copy wallpapers to /home/your_user/Images and set wallpaper
-```bash
-sudo cp /wallpapers/*.jpg /Imagens
-```
-* Active Unity Global Menu
 * Change Unity Bar:
  * Open unity-tweak-tool
  * Go to Launcher, on the guide Appearance:
  * set Custom Color -> #2d2d2d
  * set Transparency -> 0%
-* Set theme:
-```bash
-gsettings set org.gnome.desktop.interface gtk-theme "SH-Charmander"
-gsettings set org.gnome.desktop.wm.preferences theme "SH-Charmander" 
-```
-* Install Numix Icons, if necessary (It's the base of icon-pack)
-```bash
-sudo apt-add-repository ppa:numix/ppa
-sudo apt-get update
-sudo apt-get install numix-icon-theme
-```
-* Set icon-pack:
-```bash
-gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
-```
+
+* Active Unity Global Menu:
+ System Settings -> Appearance -> Behavior
+
 
 #### Use your knowledge to help us!
