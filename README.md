@@ -20,22 +20,22 @@ The gtk-theme based on Flatabulous and Numix and the basic icon-pack is based on
 
 
 ### Instalation:
-
-
+<p>
+<p>
 ####You want to update your theme?
-**Only works if you already have the theme installed and didn't remove the project folder!**
+_Only works if you already have the theme installed and didn't remove the project folder!_
 
-* Step 0: Update repository:
+* Step 0: Update the repository:
  1. Enter the project folder(Stupendously-Hot-Charmander) - via terminal!
  1. Get updates:
 ```bash
 git pull
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Go to the Step 3.
-
-
-
-####First Instalation
+<br>
+<br>
+<br>
+####First Instalation?
 
 * Step 1: Clone the repository (or download files):
 ```bash
