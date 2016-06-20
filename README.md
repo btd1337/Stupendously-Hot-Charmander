@@ -22,29 +22,43 @@ The gtk-theme based on Flatabulous and Numix and the basic icon-pack is based on
 ### Instalation:
 
 
-* Clone the repository (or download files):
+####You want to update your theme?
+**Only works if you already have the theme installed and didn't remove the project folder!**
+
+* Step 0: Update repository:
+1. Enter the project folder(Stupendously-Hot-Charmander) - via terminal!
+1. Get updates:
+```bash
+git pull
+```
+1. Go to the Step 3.
+
+
+####First Instalation
+
+* Step 1: Clone the repository (or download files):
 ```bash
 git clone https://github.com/btd1337/Stupendously-Hot-Charmander
 ```
-* Enter the project folder (Via Terminal!):
+* Step 2: Enter the project folder (Via Terminal!):
 ```bash
 cd Stupendously-Hot-Charmander
 ```
-* Change installer.sh permissions:
+* Step 3: Change installer.sh permissions:
 ```bash
 sudo chmod +x installer.sh
 ```
-* Run Installer:
+* Step 4: Run Installer:
 ```bash
 ./installer.sh
 ```
-* Change Unity Bar:
+* Step 5: Change Unity Bar:
  * Open unity-tweak-tool
  * Go to Launcher, on the guide Appearance:
  * set Custom Color -> #2d2d2d
  * set Transparency -> 0%
 
-* Active Unity Global Menu:
+* Step 6: Active Unity Global Menu:
  System Settings -> Appearance -> Behavior
 
 
