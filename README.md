@@ -36,7 +36,7 @@ sudo chmod +x installer.sh
 ```
 * Run Installer:
 ```bash
-./installer
+./installer.sh
 ```
 * Change Unity Bar:
  * Open unity-tweak-tool
