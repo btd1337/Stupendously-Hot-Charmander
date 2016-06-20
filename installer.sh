@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Install necessary tool
-echo "Installing the necessary tool: Unity Tweak Tool..."
+echo "Installing the necessary tools..."
 sudo apt-get install unity-tweak-tool -y
 
 
@@ -57,8 +57,8 @@ gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
 echo "Setting wallpaper..."
 gsettings set org.gnome.desktop.background picture-uri file:///usr/share/backgrounds/bg_SHC_01.jpg
 
-echo "The wallpapers have been saved in the folder /usr/share/backgrounds.
-        If you want to change them it's necessary add them manually at the Background Manager!"
+echo "The wallpapers have been saved to the folder /usr/share/backgrounds."
+echo "If you want to set it as your wallpaper, change it in your default background manager!"
 
 
 #Setting Cursor theme
@@ -71,5 +71,4 @@ echo " "
 echo " "
 echo "The project is starting now, help us improve it!"
 echo " "
-echo "Regards from Brazil, Helder Bertoldo."
-echo " "
+echo "https://github.com/btd1337/Stupendously-Hot-Charmander"
