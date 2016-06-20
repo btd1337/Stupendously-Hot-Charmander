@@ -29,7 +29,7 @@ sudo rm -R /usr/share/backgrounds/bg_SHC_02.jpg
 
 #Copy theme to default folder
 echo "Copying theme to default folder..."
-cp -R theme/SH-Charmander/ /usr/share/themes/
+sudo cp -R theme/SH-Charmander/ /usr/share/themes/
 
 
 #Copy icon-pack to default folder
