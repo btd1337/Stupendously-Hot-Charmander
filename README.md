@@ -36,7 +36,12 @@ git pull
 <br>
 <br>
 ####First Instalation?
-
+<br>
+_Install Git if you don't already have it installed._
+```bash
+sudo apt-get install git
+```
+<br>
 * Step 1: Clone the repository (or download files):
 ```bash
 git clone https://github.com/btd1337/Stupendously-Hot-Charmander
