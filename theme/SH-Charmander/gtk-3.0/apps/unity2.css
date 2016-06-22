@@ -24,7 +24,7 @@ UnityPanelWidget,
     background-color: @selected_bg_color;
     background-image: none;
     color: shade(@panel_fg_color, 1.08);
-    box-shadow: none;    
+    box-shadow: none;
 }
 
  /* Title settings */

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-361 208)">
+  <g id="g6318" transform="translate(-116 195)">
+   <path id="path6321" d="m243 64c-2.0157 0-4 2.0259-4 4h1c0-1.662 1.338-3 3-3h2c1.662 0 3 1.338 3 3v2h1v-2c0-1.9949-1.9635-4-4-4z" style="color:#bebebe;enable-background:accumulate;fill:#bebebe" transform="translate(241 -467)"/>
+   <path id="path6323" d="m122 330v1 1 0.5 1.25 0.25 0.5 1.5 0.5 0.5 0.5c0 0.831 0.669 1.5 1.5 1.5h8.5v-1h-8.5c-0.2943 0-0.5-0.2057-0.5-0.5v-0.5-0.5h1.25v-0.5h-1.25v-1.5h1.25v-0.5h-1.25v-0.25-1.25h1.25v-0.5h-1.25v-1h9v-1h-10zm5.75 2c-0.9695 0-1.75 0.7805-1.75 1.75 0 0.70227 0.40576 1.3146 1 1.5938v1.6562h2v-1.6562c0.59424-0.27912 1-0.89148 1-1.5938 0-0.9695-0.7805-1.75-1.75-1.75h-0.5zm4 0v0.5h0.25v-0.5h-0.25zm0 2v0.5h0.25v-0.5h-0.25zm0 2v0.5h0.25v-0.5h-0.25z" style="color:#000000;enable-background:accumulate;fill:#bebebe" transform="translate(357 -726)"/>
+  </g>
+  <path id="path5140-8" class="warning" style="color:#bebebe;enable-background:accumulate;fill:#f57900" d="m374-201 0.00001 4 0.25 2h1.5l0.25-2-0.00001-4zm0 7v2h2v-2z"/>
+ </g>
+</svg>

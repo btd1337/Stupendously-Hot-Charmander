@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16.032" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+  </filter>
+ </defs>
+ <g id="layer10" style="filter:url(#filter7554)" transform="translate(-301 136)">
+  <rect id="rect9397" style="fill:none" height="16" width="16" y="-136" x="301.03"/>
+  <path id="rect9405" style="fill:#bebebe" d="m302-132c-1 0-1 1-1 1v5c0 1 1 1 1 1h1c0 1 1 1 1 1h1s1 0 1-1h6c0 1 0.96875 1 0.96875 1h1s1.0312 0 1.0312-1h1c1 0 1-1 1-1v-5s0-1-1.0312-1h-13.969zm2.5 1c1.378 0 2.5 1.1193 2.5 2.5s-1.122 2.5-2.5 2.5-2.5-1.1193-2.5-2.5 1.122-2.5 2.5-2.5zm6.5 1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v1h-1v-1h-1v0.875h-1v-1h1v-0.875h-1v-1zm2 2h1v-1h-1v1z"/>
+  <path id="path9418" style="fill:#bebebe" d="m304.31-130a1.5 1.5 0 0 0 -1.3125 1.5 1.5 1.5 0 0 0 3 0 1.5 1.5 0 0 0 -1.6875 -1.5zm0.1875 0.5c0.55229 0 1 0.44772 1 1s-0.44771 1-1 1-1-0.44772-1-1 0.44771-1 1-1z"/>
+ </g>
+</svg>

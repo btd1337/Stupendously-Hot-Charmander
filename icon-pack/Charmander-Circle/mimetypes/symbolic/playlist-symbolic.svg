@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" enable-background="new" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer14" fill="#bebebe" transform="translate(-740 238)">
+  <path id="rect7356-3" color="#bebebe" d="m743-235-0.00021 0.99998 10 0.00002 0.00021-0.99998z"/>
+  <path id="path6091-3" color="#bebebe" d="m743-232-0.00021 0.99998 10 0.00002 0.00021-0.99998z"/>
+  <path id="path6094-6" color="#bebebe" d="m743-229-0.00021 0.99998h6.0003l0.00021-0.99998z"/>
+  <path id="path6097-0" color="#bebebe" d="m743-226-0.00021 0.99998 4.0003 0.00002 0.00021-0.99998z"/>
+  <path id="path6113-7" color="#000000" d="m750-230v2 2.0938c-0.15432-0.0536-0.32741-0.0937-0.5-0.0937-0.82843 0-1.5 0.67157-1.5 1.5s0.67157 1.5 1.5 1.5 1.5-0.67157 1.5-1.5v-3.5h3v2.0938c-0.15432-0.0536-0.32741-0.0937-0.5-0.0937-0.82843 0-1.5 0.67157-1.5 1.5s0.67157 1.5 1.5 1.5 1.5-0.67157 1.5-1.5v-5.5h-1-3-1z" stroke-width="2"/>
+ </g>
+</svg>

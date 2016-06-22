@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-521 308)">
+  <path id="path6093-2" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none;fill:#bebebe" d="m527.5-308c-1.9271 0-3.5 1.5729-3.5 3.5 0 0.17852 0.0365 0.35978 0.0625 0.53125-1.7244 0.21437-3.0625 1.6881-3.0625 3.4688 0 1.9271 1.5729 3.5 3.5 3.5h0.5c0-1.1046 0.89543-2 2-2s2 0.89543 2 2h1.2812c-0.17076-0.29454-0.28125-0.63503-0.28125-1 0-1.1046 0.89543-2 2-2s2 0.89543 2 2c0 0.36497-0.11049 0.70546-0.28125 1h0.28125c1.6509 0 3-1.3491 3-3s-1.3491-3-3-3c-0.17414 0-0.33381 0.0337-0.5 0.0625-0.10013-1.1461-1.0792-2.0625-2.25-2.0625-0.0997 0-0.18491 0.0186-0.28125 0.0312-0.22776-1.7098-1.6985-3.0312-3.4688-3.0312z"/>
+  <circle id="path3854" cx="525" style="opacity:.35;color:#000000;enable-background:accumulate;fill:#bebebe" r="1.372" cy="-294"/>
+  <circle id="path3856" cx="530" style="opacity:.35;color:#000000;enable-background:accumulate;fill:#bebebe" r="1.372" cy="-295"/>
+  <circle id="path3859" cx="527" style="opacity:.35;color:#000000;enable-background:accumulate;fill:#bebebe" r="1.372" cy="-297"/>
+  <circle id="path3855" cx="527" style="color:#000000;enable-background:accumulate;fill:#bebebe" r="1" cy="-297"/>
+  <circle id="path3862" cx="525" style="color:#000000;enable-background:accumulate;fill:#bebebe" r="1" cy="-294"/>
+  <circle id="path3864" cx="530" style="color:#000000;enable-background:accumulate;fill:#bebebe" r="1" cy="-295"/>
+  <circle id="path6320" cx="532" style="opacity:.35;color:#000000;enable-background:accumulate;fill:#bebebe" r="1.372" cy="-298"/>
+  <circle id="path6322" cx="532" style="color:#000000;enable-background:accumulate;fill:#bebebe" r="1" cy="-298"/>
+ </g>
+</svg>

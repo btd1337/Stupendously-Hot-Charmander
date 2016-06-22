@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="16"
+   id="svg7384"
+   style="enable-background:new"
+   version="1.1"
+   width="16.002401">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient5606"
+       osb:paint="solid">
+      <stop
+         id="stop5608"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <filter
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
+  <g
+     id="layer9"
+     style="display:inline"
+     transform="translate(-360.99799,388.00336)">
+    <path
+       d="m 366.0002,-387.00336 c -1.662,0 -3,1.338 -3,3 l 0,5 c 0,1.662 1.338,3 3,3 1.662,0 3,-1.338 3,-3 l 0,-5 c 0,-1.662 -1.338,-3 -3,-3 z m -5,5 0,2.90625 a 0.50030048,0.49979969 0 0 0 0,0.0937 c 0,2.40877 1.72585,4.4097 4,4.875 l 0,2.125 2,0 0,-2.125 c 2.27415,-0.4653 4,-2.46623 4,-4.875 a 0.50030048,0.49979969 0 0 0 0,-0.1875 l 0,-2.8125 -1,0 0,2.8125 a 0.50030048,0.49979969 0 0 0 0,0.15625 l 0,0.0312 c 0,2.21271 -1.78508,4 -4,4 -2.21492,0 -4,-1.78729 -4,-4 a 0.50030048,0.49979969 0 0 0 0,-0.0312 l 0,-2.9688 -1,0 z"
+       id="rect16707-7"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none" />
+    <path
+       d="m 375.00015,-382.00336 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
+       id="path6723"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+    <path
+       d="m 375.00015,-387.00336 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
+       id="path6726"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+    <circle
+       cx="375.00021"
+       cy="-375.00336"
+       id="path6756"
+       r="2"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+  </g>
+  <g
+     id="layer10"
+     style="display:inline;filter:url(#filter7554)"
+     transform="translate(-360.99799,388.00336)" />
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="translate(-119.99779,-228.99664)" />
+  <g
+     id="layer14"
+     style="display:inline"
+     transform="translate(-360.99799,388.00336)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="translate(-360.99799,388.00336)" />
+  <g
+     id="g71291"
+     style="display:inline"
+     transform="translate(-360.99799,388.00336)" />
+  <g
+     id="layer2"
+     style="display:inline"
+     transform="translate(-119.99779,-78.996641)" />
+  <g
+     id="g6058"
+     style="display:inline"
+     transform="translate(-119.99779,-78.996641)" />
+  <g
+     id="layer12"
+     style="display:inline"
+     transform="translate(-360.99799,388.00336)" />
+</svg>

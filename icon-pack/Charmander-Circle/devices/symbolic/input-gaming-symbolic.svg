@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16.003" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+  </filter>
+ </defs>
+ <g id="layer10" style="filter:url(#filter7554)" transform="translate(-541 156)">
+  <path id="path10-8" style="fill:#bebebe" d="m553.25-154c-0.24091 0.001-1.0417 0.10217-1.25 0.24999-0.52719 0.37626-1.7496 0.75-3 0.75-1.25 0-2.7228-0.405-3.25-0.78126-0.20833-0.14782-0.72639-0.1886-0.96873-0.18748-0.24234 0.001-0.52765 0.0664-0.8125 0.21875-1.0374 0.54647-1.9813 2.336-2.5 4.6562-0.44216 1.9709-0.60735 4.666-0.34375 5.75 0.22958 0.93169 0.63799 1.3438 1.3438 1.3438 1.015-0.0174 2.196-2.0022 3.0312-3.5 0.36413 0.38079 0.93153 0.5 1.5 0.5 0.73604 0 1.3714-0.75001 2-0.75001 0.62857 0 1.264 0.75001 2 0.75001 0.56847 0 1.1359-0.11921 1.5-0.5 0.83529 1.4978 2.0162 3.4826 3.0313 3.5 0.70576 0 1.1142-0.41206 1.3438-1.3438 0.2636-1.084 0.0984-3.7791-0.34375-5.75-0.51869-2.3203-1.4626-4.1098-2.5-4.6562-0.28485-0.1523-0.54034-0.25112-0.78125-0.25zm-8.25 2h1v1h1v1h-1v1h-1v-1h-1v-1h1zm7.5 0c0.27614 0 0.5 0.22386 0.5 0.5s-0.22386 0.5-0.5 0.5-0.5-0.22386-0.5-0.5 0.22386-0.5 0.5-0.5zm-1 1c0.27614 0 0.5 0.22386 0.5 0.5s-0.22386 0.5-0.5 0.5-0.5-0.22386-0.5-0.5 0.22386-0.5 0.5-0.5zm2 0c0.27614 0 0.5 0.22386 0.5 0.5s-0.22386 0.5-0.5 0.5-0.5-0.22386-0.5-0.5 0.22386-0.5 0.5-0.5zm-1 1c0.27614 0 0.5 0.22386 0.5 0.5s-0.22386 0.5-0.5 0.5-0.5-0.22386-0.5-0.5 0.22386-0.5 0.5-0.5zm-5.5 2c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1zm4 0c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z"/>
+ </g>
+</svg>

@@ -81,7 +81,7 @@ WnckPager, WnckTasklist {
  * nautilus *
  ************/
 .nautilus-canvas-item {
-    border-radius: 2px;
+    border-radius: 1px;
 }
 
 .nautilus-desktop.nautilus-canvas-item {
@@ -169,8 +169,8 @@ NautilusQueryEditor .primary-toolbar.toolbar:only-child {
  * gnome terminal *
  ******************/
 VteTerminal {
-    background-color: @osd_base;
-    color: @osd_fg;
+    background-color: #161616;
+    color: #eceff1;
 }
 
 TerminalWindow .notebook {
@@ -220,10 +220,12 @@ TerminalWindow .scrollbar.slider.vertical:active {
     background-color: @theme_selected_bg_color;
 }
 
+
+
 /*********
  * gedit *
  *********/
-GeditWindow .pane-separator, 
+GeditWindow .pane-separator,
 GeditWindow .pane-separator:hover {
     border-width: 0 0 0 0;
     border-style: solid;

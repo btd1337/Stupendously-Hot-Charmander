@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-441 308)">
+  <path id="path6361" style="color:#bebebe;enable-background:accumulate;fill:#bebebe" d="m447.5-308c-1.933 0-3.5 1.567-3.5 3.5 0 0.17907 0.0366 0.35942 0.0625 0.53125-1.7283 0.21363-3.0625 1.6826-3.0625 3.4688 0 1.8809 1.4829 3.4186 3.3438 3.5 0.34513-0.72417 0.92699-1.3122 1.6562-1.6562 0.0814-1.8608 1.6191-3.3438 3.5-3.3438 0.95046 0 1.8068 0.38506 2.4375 1 0.0214-0.00045 0.0409 0 0.0625 0 1.322 0 2.4129 0.87518 2.8125 2.0625 0.59723 0.0955 1.1378 0.33028 1.5938 0.6875 0.36854-0.48903 0.59375-1.0876 0.59375-1.75 0-1.6568-1.3432-3-3-3-0.19633 0-0.3767 0.0265-0.5625 0.0625-0.20931-1.1692-1.2081-2.0625-2.4375-2.0625-0.0106 0-0.0207-0.00013-0.0312 0-0.24009-1.699-1.7035-3-3.4688-3z"/>
+  <path id="path7984" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;shape-rendering:auto;solid-color:#000000;text-decoration-line:none;mix-blend-mode:normal;block-progression:tb;text-indent:0;image-rendering:auto;white-space:normal;text-decoration-style:solid;isolation:auto;enable-background:accumulate;text-transform:none" d="m447.62-293.99-0.22656 0.90039c0.006-0.0161 0.0141-0.0395 0.0234-0.0664l-0.0352 0.13672c0.01 0.002 0.0333 0.008 0.0195 0.004 0.002 0.00039 0.005 0.002 0.006 0.002 0.003 0.00088 0.002 0.001 0.0137 0.004 0.003 0.00068 0.0253 0.006 0.0254 0.006l0.0879-0.49219c-0.00009-0.00003 0.13348-0.48171 0.13086-0.48242-0.006-0.002-0.009-0.003-0.0137-0.004-0.001-0.0003-0.003 0.00028-0.004 0 0.00002-0.00001-0.00001-0.002 0-0.002-0.004-0.001-0.01-0.003-0.0215-0.006v0.002c-0.002-0.00051-0.003-0.001-0.006-0.002z"/>
+  <path id="path4907" style="color:#bebebe;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:accumulate;text-transform:none;fill:#bebebe" d="m449.5-301c-1.3748 0-2.5 1.1252-2.5 2.5 0 0.19324 0.0205 0.38155 0.0625 0.5625-1.166 0.21027-2.0625 1.2134-2.0625 2.4375 0 1.3748 1.1252 2.5 2.5 2.5h6.75c1.3748 0 2.5-1.1252 2.5-2.5s-1.1252-2.5-2.5-2.5c-0.0859 0-0.16624 0.0227-0.25 0.0312 0.00016-0.0105 0-0.0207 0-0.0312 0-1.0986-0.90135-2-2-2-0.16136 0-0.31813 0.0258-0.46875 0.0625-0.45345-0.64416-1.1883-1.0625-2.0312-1.0625z"/>
+ </g>
+</svg>

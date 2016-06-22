@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-360 328)">
+  <path id="rect6691" style="opacity:.35;color:#bebebe;enable-background:accumulate;fill:#bebebe" d="m373.5-328c-0.277 0-0.5 0.223-0.5 0.5v8.5 5.5c0 0.277 0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5v-14c0-0.277-0.223-0.5-0.5-0.5h-1zm-3 3c-0.277 0-0.5 0.223-0.5 0.5v3.5h1c0.1385 0 0.27582 0.005 0.40625 0.0312 0.041 0.009 0.0848 0.0196 0.125 0.0312 0.16774 0.0456 0.32185 0.13378 0.46875 0.21875v-3.7812c0-0.277-0.223-0.5-0.5-0.5h-1zm-3 3c-0.277 0-0.5 0.223-0.5 0.5v0.5h1 1v-0.5c0-0.277-0.223-0.5-0.5-0.5h-1zm-3.5 4.7188v3.7812c0 0.277 0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5v-3.5h-1c-0.18351 0-0.36266-0.0166-0.53125-0.0625-0.0319-0.009-0.0625-0.0205-0.0937-0.0312-0.1331-0.0434-0.25596-0.11864-0.375-0.1875zm8 0c-0.0717 0.0415-0.14173 0.0925-0.21875 0.125-0.0815 0.0357-0.16352 0.0686-0.25 0.0937-0.16859 0.0459-0.34774 0.0625-0.53125 0.0625h-1v3.5c0 0.277 0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5v-3.7812zm-5 0.28125v3.5c0 0.277 0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5v-3.5h-1-1zm-5.5 1c-0.277 0-0.5 0.223-0.5 0.5v2c0 0.277 0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5v-2c0-0.277-0.223-0.5-0.5-0.5h-1z"/>
+  <path id="path5112" style="color:#bebebe;enable-background:accumulate;fill:#bebebe" d="m365-320c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1zm3 0c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1zm3 0c-0.55228 0-1 0.44772-1 1s0.44772 1 1 1 1-0.44772 1-1-0.44772-1-1-1z"/>
+ </g>
+</svg>

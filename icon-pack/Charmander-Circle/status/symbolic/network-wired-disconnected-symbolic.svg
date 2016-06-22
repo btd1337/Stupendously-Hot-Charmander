@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Moka Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Moka Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+  </filter>
+ </defs>
+ <g id="layer9" transform="translate(-461 428)">
+  <path id="path5918" style="color:#000000;opacity:.35;fill:#bebebe" d="m471-427.53v1.0312 1.5h-2.5-0.5v1h0.5 3 0.5v-0.5-0.96875l3.4063 2.9688-3.4063 2.9688v-0.96875-0.5h-0.5-2.5v1h2v1.5 1.0312l0.8125-0.65625 5.1875-4.375-5.1875-4.375z"/>
+  <path id="path5920" style="color:#000000;opacity:.35;fill:#bebebe" d="m467-423.53-0.8125 0.65625-5.1875 4.375 5.1875 4.375 0.8125 0.65625v-1.0312-1.5h2.5 0.5v-1h-0.5-3-0.5v0.5 0.96875l-3.4062-2.9688 3.4062-2.9688v0.96875 0.5h0.5 2.5v-1h-2v-1.5z"/>
+  <path id="path5898-0" style="enable-background:new;fill:#bebebe" d="m472-417v1c0 0.27614 0.10029 0.53779 0.28125 0.71875l0.78125 0.78125-0.78125 0.78125c-0.18096 0.18096-0.28125 0.44261-0.28125 0.71875v1h1c0.27614 0 0.53779-0.10029 0.71875-0.28125l0.78125-0.78125 0.78125 0.78125c0.18096 0.18096 0.44261 0.28125 0.71875 0.28125h1v-1c0-0.27614-0.10029-0.53779-0.28125-0.71875l-0.78125-0.78125 0.78125-0.78125c0.18096-0.18096 0.28125-0.44261 0.28125-0.71875v-1h-1c-0.27614 0-0.53779 0.10029-0.71875 0.28125l-0.78125 0.78125-0.78125-0.78125c-0.18096-0.18096-0.44261-0.28125-0.71875-0.28125h-1z"/>
+ </g>
+</svg>
