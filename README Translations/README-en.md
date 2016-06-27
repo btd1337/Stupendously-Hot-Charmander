@@ -63,14 +63,12 @@ sudo chmod +x installer.sh
 ```
 * Step 5: Change Unity Bar:
  * Open unity-tweak-tool
- * Go to _Launcher_
- * Go to Guide _Appearance_:
+ * Go to Launcher, on the guide Appearance:
  * set Custom Color -> #2d2d2d
  * set Transparency -> 0%
 
 * Step 6: Active Unity Global Menu:
- * System Settings -> Appearance -> Behavior -> Global Menu
- * Always Visible
+ System Settings -> Appearance -> Behavior
 
 <br>
 ##### This project requires a lot of effort, therefore if it has helped you contribute to it. 
@@ -80,9 +78,3 @@ sudo chmod +x installer.sh
 
 
 #### Use your knowledge to help us!
-<br>
-<br>
-#####Help us translate this README for your language:
-Create a file README-xx.md in path README-Translations.
-Translate this file.
-Submit your modifications for this repository.
