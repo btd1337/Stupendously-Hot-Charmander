@@ -54,14 +54,6 @@ echo "Setting icon-pack..."
 gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
 
 
-#Setting Wallpaper
-echo "Setting wallpaper..."
-gsettings set org.gnome.desktop.background picture-uri file:///usr/share/backgrounds/bg_SHC_01.jpg
-
-echo "The wallpapers have been saved to the folder /usr/share/backgrounds."
-echo "If you want to set it as your wallpaper, change it in your default background manager!"
-
-
 #Setting Cursor theme
 echo "Setting cursor theme..."
 gsettings set org.gnome.desktop.interface cursor-theme "Breeze"
