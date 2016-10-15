@@ -13,6 +13,7 @@ sudo apt-get update
 echo "Installing the base features..."
 sudo apt-add-repository ppa:numix/ppa -y  #gtk base theme
 sudo apt-get update
+sudo apt-get install numix-gtk-theme -y	  #using temporarily (Flatabulous gtk is bugged on 16.10)
 sudo apt-get install numix-icon-theme -y
 
 
@@ -24,9 +25,9 @@ sudo rm -R /usr/share/icons/Breeze
 sudo rm -R /usr/share/backgrounds/bg_SHC_*
 
 
-#Copy theme to default folder
+#Copy theme to default folder (Using Numix because Flatabulous is bugged on 16.10)
 echo "Copying theme to default folder..."
-sudo cp -R theme/SH-Charmander/ /usr/share/themes/
+sudo cp theme/SH-Charmander/unity/modes/launcher_bfb.svg /usr/share/themes/Numix/unity/ -y
 
 
 #Copy icon-pack to default folder
@@ -45,7 +46,7 @@ sudo cp -R wallpapers/*.jpg /usr/share/backgrounds/
 
 #Setting gtk theme
 echo "Setting theme..."
-gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander'
+gsettings set org.gnome.desktop.interface gtk-theme 'Numix'
 gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander'
 
 
