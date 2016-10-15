@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Install necessary tool
+#to fix: ubuntu 16.04 or higher don't install
 echo "Installing the necessary tools..."
 sudo apt-get install unity-tweak-tool -y
 
@@ -26,8 +27,9 @@ sudo rm -R /usr/share/backgrounds/bg_SHC_*
 
 
 #Copy theme to default folder (Using Numix because Flatabulous is bugged on 16.10)
+#Change laucher icon and arrows
 echo "Copying theme to default folder..."
-sudo cp theme/SH-Charmander/unity/modes/launcher_bfb.svg /usr/share/themes/Numix/unity/ -y
+sudo cp theme/SH-Charmander/unity/*.* /usr/share/themes/Numix/unity/
 
 
 #Copy icon-pack to default folder
@@ -47,7 +49,7 @@ sudo cp -R wallpapers/*.jpg /usr/share/backgrounds/
 #Setting gtk theme
 echo "Setting theme..."
 gsettings set org.gnome.desktop.interface gtk-theme 'Numix'
-gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander'
+gsettings set org.gnome.desktop.wm.preferences theme 'Numix'
 
 
 #Setting icon-pack
