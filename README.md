@@ -62,7 +62,8 @@ sudo chmod +x installer.sh
 ./installer.sh
 ```
 * Step 5: Change Unity Bar:
- * Open unity-tweak-tool
+ * Open unity-tweak-tool (Not installed? install it-> https://apps.ubuntu.com/cat/applications/unity-tweak-tool/)
+ 
  * Go to _Launcher_
  * Go to Guide _Appearance_:
  * set Custom Color -> #2d2d2d
