@@ -1,6 +1,6 @@
 # Numix GTK Theme
 
-gtk-color-scheme = "bg_color:#dedede\nfg_color:#555555\nbase_color:#f9f9f9\ntext_color:#333333\nselected_bg_color:#7A7D81\nselected_fg_color:#f9f9f9\ntooltip_bg_color:#2d2d2d\ntooltip_fg_color:#dedede\ntitlebar_bg_color:#2d2d2d\ntitlebar_fg_color:#dcdcdc\nmenubar_bg_color:#2d2d2d\nmenubar_fg_color:#dcdcdc\ntoolbar_bg_color:#dedede\ntoolbar_fg_color:#555555\nmenu_bg_color:#2d2d2d\nmenu_fg_color:#dcdcdc\npanel_bg_color:#2d2d2d\npanel_fg_color:#dcdcdc\nlink_color:#7A7D81"
+gtk-color-scheme = "bg_color:#eeeeee\nfg_color:#555555\nbase_color:#ffffff\ntext_color:#333333\nselected_bg_color:#f0544c\nselected_fg_color:#ffffff\ntooltip_bg_color:#444444\ntooltip_fg_color:#eeeeee\ntitlebar_bg_color:#444444\ntitlebar_fg_color:#dddddd\nmenubar_bg_color:#444444\nmenubar_fg_color:#dddddd\ntoolbar_bg_color:#eeeeee\ntoolbar_fg_color:#555555\nmenu_bg_color:#444444\nmenu_fg_color:#dddddd\npanel_bg_color:#444444\npanel_fg_color:#dddddd\nlink_color:#f06860"
 
 # Default Style
 
@@ -41,7 +41,7 @@ style "murrine-default" {
 
 	GtkRange::trough-border = 0
 	GtkRange::slider-width = 12
-	GtkRange::stepper-size = 14
+	GtkRange::stepper-size = 12
 	GtkRange::stepper_spacing = 0
 	GtkRange::trough-under-steppers = 1
 
@@ -55,7 +55,7 @@ style "murrine-default" {
 	GtkScrollbar::has-secondary-backward-stepper = 0
 	GtkScrollbar::has-secondary-forward-stepper = 0
 	GtkScrollbar::min-slider-length = 80
-	GtkScrollbar::slider-width = 6
+	GtkScrollbar::slider-width = 12
 	GtkScrollbar::trough-border = 0
 
 	GtkScrolledWindow::scrollbar-spacing = 0
@@ -149,14 +149,6 @@ style "murrine-default" {
 		toolbarstyle = 0 # 0 = flat, 1 = glassy, 2 = gradient
    }
 }
-
-style "large_scrollbar"
-            {
-            GtkScrollbar::slider-width = 13
-            GtkScrollbar::trough-border = 0
-            }
-            widget_class "*" style "large_scrollbar"
-
 
 style "murrine-wide" {
 	xthickness = 2
@@ -478,12 +470,17 @@ class "PanelToplevel*" style "murrine-panel"
 widget_class "*PanelToplevel*" style "murrine-panel"
 widget_class "*notif*" style "murrine-panel"
 widget_class "*Notif*" style "murrine-panel"
-widget_class "*Tray*" style "murrine-panel" 
+widget_class "*Tray*" style "murrine-panel"
 widget_class "*tray*" style "murrine-panel"
 widget_class "*computertemp*" style "murrine-panel"
 widget_class "*Applet*Tomboy*" style "murrine-panel"
 widget_class "*Applet*Netstatus*" style "murrine-panel"
 widget "*gdm-user-switch-menubar*" style "murrine-panel"
+
+# LXPanel (code based on Lubuntu-default theme's gtkrc file)
+widget "*.tclock.*" style "murrine-panel"
+widget "*.taskbar.*" style "murrine-panel"
+widget_class "*GtkBgbox*" style "murrine-panel"
 
 style "bold-panel-item" {
 	font_name = "Bold"
@@ -502,6 +499,7 @@ widget "*gimmie*" style "bold-panel-item"
 # XFCE Styles
 
 style "workspace-switcher" = "murrine-panel" {
+	bg[ACTIVE] = @selected_bg_color
 	bg[SELECTED] = @selected_bg_color
 }
 
@@ -519,32 +517,44 @@ style "xfdesktop-windowlist" {
 style "xfdesktop-icon-view" {
 	XfdesktopIconView::label-alpha = 0
 	XfdesktopIconView::selected-label-alpha = 60
-	XfdesktopIconVIew::ellipsize-icon-labels = 1
-
-	base[NORMAL] = @selected_bg_color
-	base[SELECTED] = @selected_bg_color
-	base[ACTIVE] = @selected_bg_color
+	XfdesktopIconView::shadow-x-offset = 0
+	XfdesktopIconView::shadow-y-offset = 1
+	XfdesktopIconView::selected-shadow-x-offset = 0
+	XfdesktopIconView::selected-shadow-y-offset = 1
+	XfdesktopIconView::shadow-color = "#000000"
+	XfdesktopIconView::selected-shadow-color = "#000000"
+	XfdesktopIconView::shadow-blur-radius = 2
+	XfdesktopIconView::cell-spacing = 2
+	XfdesktopIconView::cell-padding = 6
+	XfdesktopIconView::cell-text-width-proportion = 1.9
 
 	fg[NORMAL] = @selected_fg_color
-	fg[SELECTED] = @selected_fg_color
 	fg[ACTIVE] = @selected_fg_color
 
-	engine "murrine" {
-		textstyle = 5
-		text_shade = 0.05
-	}
 }
 
 style "xfwm-tabwin" {
-	Xfwm4TabwinWidget::border-width = 0
+	Xfwm4TabwinWidget::border-width = 1
+        Xfwm4TabwinWidget::border-alpha = 1.0
 	Xfwm4TabwinWidget::icon-size = 64
+        Xfwm4TabwinWidget::alpha = 1.0
+        Xfwm4TabwinWidget::border-radius = 2
 
 	bg[NORMAL] = @menu_bg_color
+	bg[SELECTED] = @menu_bg_color
+
 	fg[NORMAL] = @menu_fg_color
 
 	engine "murrine" {
-		focusstyle = 0
+		contrast = 0.0
+		border_shades = { 0.9, 0.9 }
 	}
+}
+
+style "xfwm-tabwin-button" {
+        font_name = "bold"
+
+	bg[SELECTED] = @selected_bg_color
 }
 
 style "xfsm-logout" {
@@ -571,7 +581,7 @@ style "xfsm-logout-button" {
 	}
 }
 
-widget "*WnckPager*" style "workspace-switcher"
+widget "*Pager*" style "workspace-switcher"
 
 widget "*Xfce*Panel*" style "murrine-panel"
 class "*Xfce*Panel*" style "murrine-panel"
@@ -588,6 +598,30 @@ style "sidepane" {
 widget_class "*ThunarShortcutsView*" style "sidepane"
 widget_class "*ThunarTreeView*" style "sidepane"
 widget_class "*ThunarLocationEntry*" style "murrine-entry"
+
+style "whiskermenu" {
+	bg[NORMAL] = @menu_bg_color
+	bg[ACTIVE] = mix (0.21, @menubar_fg_color, @menubar_bg_color)
+	bg[PRELIGHT] = @selected_bg_color
+
+	fg[NORMAL] = @menu_fg_color
+	fg[ACTIVE] = @menu_fg_color
+	fg[PRELIGHT] = @menu_fg_color
+}
+
+style "whiskermenu-scrollbar" = "murrine-scrollbar" {
+	bg[NORMAL] = mix (0.21, @fg_color, @bg_color)
+	bg[PRELIGHT] = mix (0.31, @fg_color, @bg_color)
+	bg[ACTIVE] = @selected_bg_color
+
+	engine "murrine" {
+		trough_shades = { 4.97, 4.97 }
+		trough_border_shades = { 5.0, 5.0 }
+	}
+}
+
+widget "whiskermenu-window*" style "whiskermenu"
+widget "*whisker*GtkVScrollbar" style "whiskermenu-scrollbar"
 
 # Gtk2 Open-File Dialog
 
@@ -760,11 +794,13 @@ widget_class "*gtkmm__GtkWindow*" style "performance-fix" # Inkscape
 widget_class "*GimpDisplayShell*" style "performance-fix" # Gimp
 widget_class "*GimpToolbox*" style "performance-fix"
 widget_class "*GimpMenuDock*" style "performance-fix"
+widget "*OOoFixed*" style "performance-fix" # Openoffice/Libreoffice
 widget_class "*MozContainer*" style "performance-fix" # Firefox (Not sure if this one does anything though.)
 
 widget_class "*XfceHeading*" style "xfce-header"
 widget_class "*XfceDesktop*" style "xfdesktop-windowlist"
 widget_class "*XfdesktopIconView*" style "xfdesktop-icon-view"
 widget "xfwm4-tabwin*" style "xfwm-tabwin"
+widget "xfwm4-tabwin*GtkButton*" style "xfwm-tabwin-button"
 widget_class "*XfsmLogoutDialog*" style "xfsm-logout"
 widget_class "*XfsmLogoutDialog*GtkButton" style "xfsm-logout-button"

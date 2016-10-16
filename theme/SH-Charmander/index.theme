@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Flatabulous
-Comment=A modern flat theme designed from Ultra Flat Theme.
+Name=Numix
+Comment=A modern flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Flatabulous
-MetacityTheme=Flatabulous
+GtkTheme=Numix
+MetacityTheme=Numix
 ButtonLayout=:minimize,maximize,close
