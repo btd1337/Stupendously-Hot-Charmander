@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Hot-Charmander-Light
+Comment=A Material Design-like theme based on Flat-Plat, Adapta and Stupendously Hot Charmander
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Hot-Charmander-Light
+MetacityTheme=Hot-Charmander-Light
