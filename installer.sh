@@ -45,8 +45,8 @@ sudo cp -R wallpapers/*.jpg /usr/share/backgrounds/
 
 #Setting gtk theme
 echo "Setting theme..."
-gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander'
-gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander'
+gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander-Light'
+gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-Light'
 
 
 #Setting icon-pack
@@ -65,8 +65,8 @@ echo "If you want to set it as your wallpaper, change it in your default backgro
 #Setting Cursor theme
 echo "Setting cursor theme..."
 
-# gsettings set org.gnome.desktop.interface cursor-theme "Dmz-black"
-gsettings set org.gnome.desktop.interface cursor-theme "Breeze"
+gsettings set org.gnome.desktop.interface cursor-theme "Dmz-black"
+#gsettings set org.gnome.desktop.interface cursor-theme "Breeze"
 gsettings set org.gnome.desktop.interface cursor-size 20
 
 
