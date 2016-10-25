@@ -45,8 +45,8 @@ sudo cp -R wallpapers/*.jpg /usr/share/backgrounds/
 
 #Setting gtk theme
 echo "Setting theme..."
-gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander-Light'
-gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-Light'
+gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander' #Don't change
+gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander' #Don't change
 
 
 #Setting icon-pack
