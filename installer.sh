@@ -26,8 +26,8 @@ sudo rm -R /usr/share/backgrounds/bg_SHC_*
 
 #Copy theme to default folder
 echo "Copying theme to default folder..."
-sudo cp -R theme/SH-Charmander*/ /usr/share/themes/
-
+sudo cp -R theme/SH-Charmander/ /usr/share/themes/
+sudo cp -R theme/SH-Charmander-Light/ /usr/share/themes/
 
 #Copy icon-pack to default folder
 echo "Copying icon-pack to default folder..."
@@ -65,8 +65,8 @@ echo "If you want to set it as your wallpaper, change it in your default backgro
 #Setting Cursor theme
 echo "Setting cursor theme..."
 
-gsettings set org.gnome.desktop.interface cursor-theme "Dmz-black"
-#gsettings set org.gnome.desktop.interface cursor-theme "Breeze"
+#gsettings set org.gnome.desktop.interface cursor-theme "Dmz-black"
+gsettings set org.gnome.desktop.interface cursor-theme "Breeze"
 gsettings set org.gnome.desktop.interface cursor-size 20
 
 
