@@ -19,6 +19,7 @@ sudo apt-get install numix-icon-theme -y
 #Remove older versions
 echo "Removing older versions..."
 sudo rm -R /usr/share/themes/SH-Charmander
+sudo rm -R /usr/share/themes/SH-Charmander-1610
 sudo rm -R /usr/share/icons/Charmander-Circle
 sudo rm -R /usr/share/icons/Breeze
 sudo rm -R /usr/share/backgrounds/bg_SHC_*
@@ -28,6 +29,7 @@ sudo rm -R /usr/share/backgrounds/bg_SHC_*
 echo "Copying theme to default folder..."
 sudo cp -R theme/SH-Charmander/ /usr/share/themes/
 sudo cp -R theme/SH-Charmander-Light/ /usr/share/themes/
+sudo cp -R theme/SH-Charmander-1610/ /usr/share/themes/
 
 #Copy icon-pack to default folder
 echo "Copying icon-pack to default folder..."
