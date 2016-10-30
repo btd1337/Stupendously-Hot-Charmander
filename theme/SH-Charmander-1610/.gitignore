@@ -1,0 +1,11 @@
+# Ignore Backup Copies from Text Editor
+*~
+
+# Ignore SASS files
+.sass-cache
+gtk.gresource
+dist
+
+# Jetbrains IDEs
+.idea
+*.iml

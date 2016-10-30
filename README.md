@@ -61,6 +61,14 @@ sudo chmod +x installer.sh
 ```bash
 ./installer.sh
 ```
+
+Using Ubuntu 16.10?
+Run command on Terminal:
+```bash
+gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander-1610'
+gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-1610'
+```
+
 * Step 5: Change Unity Bar:
  * Open unity-tweak-tool (Not installed? install it-> https://apps.ubuntu.com/cat/applications/unity-tweak-tool/)
  
