@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#More customs: https://wiki.ubuntu.com/Unity/Theming#Unity_Panel
+
 #Install necessary tool
 echo "Installing the necessary tools..."
 sudo apt-get install unity-tweak-tool -y
@@ -70,6 +72,9 @@ echo "Setting cursor theme..."
 #gsettings set org.gnome.desktop.interface cursor-theme "Dmz-black"
 gsettings set org.gnome.desktop.interface cursor-theme "Breeze"
 gsettings set org.gnome.desktop.interface cursor-size 20
+
+#Setting transparency of the unity bar
+gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ launcher-opacity 0
 
 
 #Acknowledgment
