@@ -30,7 +30,7 @@ _Funciona apenas se você já tem o tema instalado e não removeu a pasta do pro
 
 * Passo 0: Atualizar o repositório:
  1. Entre na pasta onde você clonou ou baixou o projeto (Stupendously-Hot-Charmander) - via terminal!
- 1. Baixar atualizações:
+ 2. Baixar atualizações:
 ```bash
 git pull
 ```
@@ -57,16 +57,24 @@ cd Stupendously-Hot-Charmander
 ```bash
 ./installer.sh
 ```
-
-Usando Ubuntu 16.10? Essa versão precisa de um tema especial.
+<br>
+<br>
+Usando Ubuntu **16.10** ou mais recente? Essa versão precisa de um tema especial.
 Rode o comando no Terminal:
 ```bash
 gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander-1610'
 gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-1610'
 gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ background-color '444444ff'
 ```
-
-
+<br>
+<br>
+####Restaurar?
+Não curtiu? Quer resetar para o tema padrão?
+Abra na pasta do projeto e execute:
+```bash
+./reset-theme.sh
+```
+<br>
 <br>
 ##### Este projeto exige muito esforço, portanto, se ele tem te ajudado contribua para ele. Faça uma pequena doação!
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
