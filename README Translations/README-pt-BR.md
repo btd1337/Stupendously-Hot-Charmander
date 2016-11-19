@@ -45,15 +45,15 @@ _Instale o Git se você não já não tem ele instalado._
 sudo apt-get install git
 ```
 <br>
-* Step 1: Clone o repositorio (ou baixe os arquivos):
+* Passo 1: Clone o repositorio (ou baixe os arquivos):
 ```bash
 git clone https://github.com/btd1337/Stupendously-Hot-Charmander
 ```
-* Step 2: Entrar na pasta do projeto (Via Terminal!):
+* Passo 2: Entrar na pasta do projeto (Via Terminal!):
 ```bash
 cd Stupendously-Hot-Charmander
 ```
-* Step 3: Execute o Instalador:
+* Passo 3: Execute o Instalador:
 ```bash
 ./installer.sh
 ```
