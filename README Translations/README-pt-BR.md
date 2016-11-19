@@ -53,11 +53,7 @@ git clone https://github.com/btd1337/Stupendously-Hot-Charmander
 ```bash
 cd Stupendously-Hot-Charmander
 ```
-* Step 3: Mudar a permissão do installer.sh:
-```bash
-sudo chmod +x installer.sh
-```
-* Step 4: Execute o Instalador:
+* Step 3: Execute o Instalador:
 ```bash
 ./installer.sh
 ```
@@ -67,17 +63,9 @@ Rode o comando no Terminal:
 ```bash
 gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander-1610'
 gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-1610'
+gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ background-color '444444ff'
 ```
 
-
-* Step 5: Mudando a Barra do Unity:
- * Vá nos seus programas e abra o unity-tweak-tool (Não foi instalado? Instale ele -> https://apps.ubuntu.com/cat/applications/unity-tweak-tool/)
- * Vá para _Launcher_, na guia _Appearance_:
- * Defina Custom Color -> #2d2d2d
- * Defina Transparency -> 0%
-
-* Step 6: Ative o Menu Global do Unity:
- Configurações do Sistema -> Aparência -> Comportamento
 
 <br>
 ##### Este projeto exige muito esforço, portanto, se ele tem te ajudado contribua para ele. Faça uma pequena doação!

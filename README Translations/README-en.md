@@ -4,7 +4,7 @@ This theme is based on **Stupendously Hot Charmander concept** developed by _Rom
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
-This project is in early stage, therefore themes and icons are forks of similar designs.
+This project is in early stage, therefore therefore themes and icons are forks of similar designs.
 
 The gtk-theme is based on Flatabulous and Numix theme. 
 The basic icon-pack is based on Numix-Circle-Icons, Faba and Arc.
@@ -53,11 +53,7 @@ git clone https://github.com/btd1337/Stupendously-Hot-Charmander
 ```bash
 cd Stupendously-Hot-Charmander
 ```
-* Step 3: Change installer.sh permissions:
-```bash
-sudo chmod +x installer.sh
-```
-* Step 4: Run Installer:
+* Step 3: Run Installer:
 ```bash
 ./installer.sh
 ```
@@ -67,16 +63,8 @@ Run command on Terminal:
 ```bash
 gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander-1610'
 gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-1610'
+gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ background-color '444444ff'
 ```
-
-* Step 5: Change Unity Bar:
- * Go to your programs and open _unity-tweak-tool_ (Not installed? install it-> https://apps.ubuntu.com/cat/applications/unity-tweak-tool/)
- * Go to _Launcher_, on the guide _Appearance_:
- * set _Custom Color_ -> #2d2d2d
- * set _Transparency_ -> 0%
-
-* Step 6: Active Unity Global Menu:
- System Settings -> Appearance -> Behavior
 
 <br>
 ##### This project requires a lot of effort, therefore if it has helped you contribute to it. Make a small donation!
