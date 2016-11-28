@@ -60,13 +60,13 @@ cp -R wallpapers/*.jpg /home/$USER/Wallpapers/
 
 #Setting gtk theme
 echo "Setting theme..."
-gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander' #Don't change
-gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander' #Don't change
+gsettings set org.gnome.desktop.interface gtk-theme "SH-Charmander" #Don't change
+gsettings set org.gnome.desktop.wm.preferences theme "SH-Charmander" #Don't change
 
 
 #Setting icon-pack
 echo "Setting icon-pack..."
-gsettings set org.gnome.desktop.interface icon-theme 'Charmander-Circle'
+gsettings set org.gnome.desktop.interface icon-theme "Charmander-Circle"
 
 
 #Setting Wallpaper
