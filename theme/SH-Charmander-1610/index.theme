@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Numix
-Comment=A modern flat theme
+Name=SH-Charmander-1610
+Comment=A fork of Numix flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Numix
-MetacityTheme=Numix
+GtkTheme=SH-Charmander-1610
+MetacityTheme=SH-Charmander-1610
 ButtonLayout=:minimize,maximize,close

@@ -4,7 +4,7 @@ This theme is based on **Stupendously Hot Charmander concept** developed by _Rom
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
-This project is in early stage, therefore was used themes and icon-packs existing.
+This project is in early stage, therefore therefore themes and icons are forks of similar designs.
 
 The gtk-theme is based on Flatabulous and Numix theme. 
 The basic icon-pack is based on Numix-Circle-Icons, Faba and Arc.
@@ -29,8 +29,8 @@ The basic icon-pack is based on Numix-Circle-Icons, Faba and Arc.
 _Only works if you already have the theme installed and didn't remove the project folder!_
 
 * Step 0: Update the repository:
- 1. Enter the project folder(Stupendously-Hot-Charmander) - via terminal!
- 1. Get updates:
+ 1. Enter the folder where you cloned or downloaded the project (Stupendously-Hot-Charmander) - via terminal!
+ 2. Get updates:
 ```bash
 git pull
 ```
@@ -53,41 +53,34 @@ git clone https://github.com/btd1337/Stupendously-Hot-Charmander
 ```bash
 cd Stupendously-Hot-Charmander
 ```
-* Step 3: Change installer.sh permissions:
-```bash
-sudo chmod +x installer.sh
-```
-* Step 4: Run Installer:
+* Step 3: Run Installer:
 ```bash
 ./installer.sh
 ```
-
-Using Ubuntu 16.10?
-Run command on Terminal:
+<br>
+<br>
+Using **Ubuntu 16.10** or more recent? This version needs a special theme.
+Turn the command on the terminal:
 ```bash
 gsettings set org.gnome.desktop.interface gtk-theme 'SH-Charmander-1610'
 gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-1610'
+gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ background-color '444444ff'
 ```
-
-* Step 5: Change Unity Bar:
- * Open unity-tweak-tool (Not installed? install it-> https://apps.ubuntu.com/cat/applications/unity-tweak-tool/)
- 
- * Go to _Launcher_
- * Go to Guide _Appearance_:
- * set Custom Color -> #2d2d2d
- * set Transparency -> 0%
-
-* Step 6: Active Unity Global Menu:
- * System Settings -> Appearance -> Behavior -> Global Menu
- * Always Visible
-
 <br>
-##### This project requires a lot of effort, therefore if it has helped you contribute to it. 
+<br>
+####Restore?
+Didn't like? Do you want to reset theme to default?
+On project folder, run:
+```bash
+./reset-theme.sh
+```
+<br>
+<br>
+##### This project requires a lot of effort, therefore if it has helped you contribute to it. Make a small donation!
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 <br>
-
-
+<br>
 #### Use your knowledge to help us!
 <br>
 <br>
@@ -95,3 +88,4 @@ gsettings set org.gnome.desktop.wm.preferences theme 'SH-Charmander-1610'
 Create a file README-xx.md in path README-Translations.
 Translate this file.
 Submit your modifications for this repository.
+<br>

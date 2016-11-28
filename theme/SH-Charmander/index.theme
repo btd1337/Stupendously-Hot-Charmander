@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Flatabulous
-Comment=A modern flat theme designed from Ultra Flat Theme.
+Name=SH-Charmander
+Comment=A fork of Flatabulous theme.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Flatabulous
-MetacityTheme=Flatabulous
+GtkTheme=SH-Charmander
+MetacityTheme=SH-Charmander
 ButtonLayout=:minimize,maximize,close
