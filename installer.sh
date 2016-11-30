@@ -47,10 +47,6 @@ echo "Copying icon-pack to default folder..."
 mkdir /home/$USER/.icons
 cp -R icon-pack/Charmander-Circle/ /home/$USER/.icons
 
-#Copy cursor to default folder
-echo "Copying icon-pack to default folder..."
-cp -R cursor/Breeze /home/$USER/.icons
-
 
 #Copy wallpapers to default folder
 echo "Copying wallpapers to default folder..."
@@ -75,14 +71,6 @@ gsettings set org.gnome.desktop.background picture-uri file:///home/$USER/Wallpa
 
 echo "The wallpapers have been saved to the folder /usr/share/backgrounds."
 echo "If you want to set it as your wallpaper, change it in your default background manager!"
-
-
-#Setting Cursor theme
-echo "Setting cursor theme..."
-
-#gsettings set org.gnome.desktop.interface cursor-theme "Dmz-black"
-gsettings set org.gnome.desktop.interface cursor-theme "Breeze"
-gsettings set org.gnome.desktop.interface cursor-size 20
 
 
 echo "Others adjustments..."
