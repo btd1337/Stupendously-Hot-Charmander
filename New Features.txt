@@ -842,3 +842,7 @@ y-ppa-indicator-panel.svg
 y-ppa-indicator.svg
 zim-panel.svg
 
+
+#Folders
+New style folders
+
