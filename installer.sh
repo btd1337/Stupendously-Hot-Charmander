@@ -53,6 +53,8 @@ echo "Copying wallpapers to default folder..."
 mkdir /home/$USER/Wallpapers/
 cp -R wallpapers/*.jpg /home/$USER/Wallpapers/
 
+#close nautilus
+killall nautilus
 
 #Setting gtk theme
 echo "Setting theme..."
@@ -82,6 +84,9 @@ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshel
 
 #Setting Global Menu
 gsettings set com.canonical.Unity integrated-menus true
+
+#Change side buttons
+gsettings set org.gnome.desktop.wm.preferences button-layout ':minimize,maximize,close'
 
 echo ""
 echo ""
