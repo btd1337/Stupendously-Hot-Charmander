@@ -2,7 +2,7 @@
 
 This theme is based on **Stupendously Hot Charmander concept** developed by _Roman Nguyen_, available in http://bit.do/SHCC_Mockup.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 This project is in early stage, therefore therefore themes and icons are forks of similar designs.
 
@@ -77,7 +77,7 @@ On project folder, run:
 <br>
 <br>
 ##### This project requires a lot of effort, therefore if it has helped you contribute to it. Make a small donation!
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=BR&item_name=Stupendously%2dHot%2dCharmander&item_number=SHC&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 <br>
 <br>
