@@ -25,7 +25,7 @@ O pacote de icones é baseado no temas Numix-Circle-Icones, Faba e Arc
 ### Instalação:
 <p>
 <p>
-####Você quer atualizar o tema?
+#### Você quer atualizar o tema?
 _Funciona apenas se você já tem o tema instalado e não removeu a pasta do projeto!_
 
 * Passo 0: Atualizar o repositório:
@@ -38,7 +38,7 @@ git pull
 <br>
 <br>
 <br>
-####Primeira Instalação?
+#### Primeira Instalação?
 <br>
 _Instale o Git se você não já não tem ele instalado._
 ```bash
@@ -68,7 +68,7 @@ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshel
 ```
 <br>
 <br>
-####Restaurar?
+#### Restaurar?
 Não curtiu? Quer resetar para o tema padrão?
 Abra na pasta do projeto e execute:
 ```bash
@@ -85,7 +85,7 @@ Abra na pasta do projeto e execute:
 #### Use o seu conhecimento para nos ajudar!
 <br>
 <br>
-#####Nos ajude traduzindo esse README para sua linguagem:
+##### Nos ajude traduzindo esse README para sua linguagem:
 Crie um arquivo README-xx.md na pasta README-Translations.
 Traduza esse arquivo.
 Submeta suas modificações para este repositório.

@@ -25,7 +25,7 @@ The basic icon-pack is based on Numix-Circle-Icons, Faba and Arc.
 ### Installation:
 <p>
 <p>
-####You want to update your theme?
+#### You want to update your theme?
 _Only works if you already have the theme installed and didn't remove the project folder!_
 
 * Step 0: Update the repository:
@@ -38,7 +38,7 @@ git pull
 <br>
 <br>
 <br>
-####First Installation?
+#### First Installation?
 <br>
 _Install Git if you don't already have it installed._
 ```bash
@@ -68,7 +68,7 @@ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshel
 ```
 <br>
 <br>
-####Restore?
+#### Restore?
 Didn't like? Do you want to reset theme to default?
 On project folder, run:
 ```bash
@@ -84,7 +84,7 @@ On project folder, run:
 #### Use your knowledge to help us!
 <br>
 <br>
-#####Help us translate this README for your language:
+##### Help us translate this README for your language:
 Create a file README-xx.md in path README-Translations.
 Translate this file.
 Submit your modifications for this repository.
