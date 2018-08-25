@@ -10,7 +10,7 @@ _The gtk-theme is based on Flatabulous and Numix theme. The base of icon-pack is
 
 
 ## Discontinued
-Discontinued Project: This project has been discontinued.
+**Discontinued Project:** This project has been discontinued.
 
 ## Preview
 
